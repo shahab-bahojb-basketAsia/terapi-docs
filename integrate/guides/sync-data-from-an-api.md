@@ -67,7 +67,7 @@ curl -G https://api.terapi.dev/records \
 
 
 ```ts
-import   from '@nangohq/node';
+import   from '@terapihq/node';
 
 const terapi = new Terapi();
 
@@ -121,7 +121,7 @@ curl -G https://api.terapi.dev/records \
 
 
 ```ts
-import   from '@nangohq/node';
+import   from '@terapihq/node';
 
 const terapi = new Terapi();
 

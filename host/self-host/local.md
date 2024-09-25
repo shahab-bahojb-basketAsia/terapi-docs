@@ -5,7 +5,7 @@ sidebarTitle: 'Locally'
 
 Set up Terapi locally in 3 minutes. Run: 
 ```bash
-git clone https://github.com/NangoHQ/nango && cd nango
+git clone https://github.com/TerapiHQ/terapi && cd terapi
 ```
 ```bash
 docker compose up

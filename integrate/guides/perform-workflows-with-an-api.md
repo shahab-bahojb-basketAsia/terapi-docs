@@ -41,7 +41,7 @@ curl --request POST \
 
 
 ```ts
-import   from '@nangohq/node';
+import   from '@terapihq/node';
 
 const terapi = new Terapi();
 

@@ -69,7 +69,7 @@ Get your `Public Key` from the _Environment Settings_ tab.
 In your frontend, initiate Terapi ([reference]()):
 
 ```ts
-import Terapi from '@nangohq/frontend';
+import Terapi from '@terapihq/frontend';
 
 let terapi = new Terapi();
 ```

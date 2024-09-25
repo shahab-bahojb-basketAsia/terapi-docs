@@ -41,7 +41,7 @@ Still in your VM’s console, install Terapi by running:
 
 ```bash
 mkdir terapi && cd terapi
-wget https://raw.githubusercontent.com/NangoHQ/nango/master/docker-compose.yaml
+wget https://raw.githubusercontent.com/TerapiHQ/terapi/master/docker-compose.yaml
 docker-compose up -d # Terapi is now running!
 ```
 
